@@ -11,3 +11,5 @@ My exceptions:
 2. My Community work, and a few emergencies demands to take a day off.
 
 [#100daysofcode](https://www.100daysofcode.com/)
+
+For the daily update on this challange follow me on [Twitter](https://twitter.com/awasthinaman03)
