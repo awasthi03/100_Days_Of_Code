@@ -1,4 +1,4 @@
-# 100_Days_Of_Code (https://www.100daysofcode.com/)
+# 100_Days_Of_Code(https://www.100daysofcode.com/)
 !!! Consistently Coding for 1 hour everyday for 100 days to improve and upskill !!!
 Hey guys, from today onwards I am starting 100 days of code challange to improve my coding and problem solving skills. 
 
@@ -10,4 +10,4 @@ My exceptions:
 -> if I break the streak I will make sure that I won't break it the next day.
 -> My Community work, and a few emergencies demands to take a day off.
 
-[#100daysofcode] (https://www.100daysofcode.com/)
+[#100daysofcode](https://www.100daysofcode.com/)
