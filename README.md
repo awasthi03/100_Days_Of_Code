@@ -16,4 +16,7 @@ For the daily update on this challange follow me on [Twitter](https://twitter.co
 
 - - - 
 ## Goals
-- [x] Learn Software Development
+- [ ] Learn Software Development
+- [ ] Solve Problems on Data Structures and Algorithms
+- [ ] Build Projects around Software Development
+- [ ] Community Work
