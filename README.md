@@ -13,3 +13,7 @@ My exceptions:
 [#100daysofcode](https://www.100daysofcode.com/)
 
 For the daily update on this challange follow me on [Twitter](https://twitter.com/awasthinaman03)
+
+- - - 
+## Goals
+- [x] Learn Software Development
