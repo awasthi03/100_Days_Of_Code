@@ -1,6 +1,6 @@
 import java.util.HashSet;
 
-class Solution {
+class Problem_3 {
     public static int lengthOfLongestSubstring(String s) {
         int n = s.length();
         int maxLength = 0;
