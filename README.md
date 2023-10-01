@@ -21,3 +21,19 @@ For the daily update on this challange follow me on [Twitter](https://twitter.co
 - [ ] Build Projects around Software Development
 - [ ] Community Work
 - [ ] Deep dive into Java
+
+- - - 
+## Solve Problems On Data Structures and Algorithms (Leetcode)
+- [ ] Data Structures
+              - Arrays - [Day 1](#day-1)
+
+- [ ] Algorithms
+              - Searching
+                     - Binary Search - [Day 1](#day-1)
+
+- - -
+# 100DaysOfCode Day-To-Day Progress
+## Day 1
+  - Solved 2 leetcode questions
+     - [Problem 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (Medium)
+     - [Problem 4](https://leetcode.com/problems/median-of-two-sorted-arrays/) (Hard)
