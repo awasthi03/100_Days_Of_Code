@@ -26,17 +26,17 @@ For the daily update on this challange follow me on [Twitter](https://twitter.co
 ## Learn Software Development
 ### Learn Java Development
 - [ ] OOPS
-        - Abstraction - [Day 2](#day-2)
-        - Encapsulation - [Day 2](#day-2)
+      - Abstraction - [Day 2](#day-2)
+      - Encapsulation - [Day 2](#day-2)
 
 - - -
 ## Solve Problems On Data Structures and Algorithms (Leetcode)
 - [ ] Data Structures
-              - Arrays - [Day 1](#day-1)
+      - Arrays - [Day 1](#day-1)
 
 - [ ] Algorithms
-              - Searching
-                     - Binary Search - [Day 1](#day-1)
+      - Searching
+      - Binary Search - [Day 1](#day-1)
 
 - - -
 # 100DaysOfCode Day-To-Day Progress
