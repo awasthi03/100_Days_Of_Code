@@ -23,6 +23,13 @@ For the daily update on this challange follow me on [Twitter](https://twitter.co
 - [ ] Deep dive into Java
 
 - - - 
+## Learn Software Development
+### Learn Java Development
+- [ ] OOPS
+        - Abstraction - [Day 2](#day-2)
+        - Encapsulation - [Day 2](#day-2)
+
+- - -
 ## Solve Problems On Data Structures and Algorithms (Leetcode)
 - [ ] Data Structures
               - Arrays - [Day 1](#day-1)
@@ -37,3 +44,7 @@ For the daily update on this challange follow me on [Twitter](https://twitter.co
   - Solved 2 leetcode questions
      - [Problem 3](https://leetcode.com/problems/longest-substring-without-repeating-characters/) (Medium)
      - [Problem 4](https://leetcode.com/problems/median-of-two-sorted-arrays/) (Hard)
+## Day 2
+  - Learned About two important pillars of OOPS
+    - Abstraction
+    - Encapsulation 
