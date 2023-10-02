@@ -34,8 +34,8 @@ For the daily update on this challange follow me on [Twitter](https://twitter.co
 	- [ ] Arrays - [Day 1](#day-1)
 
 - [x] Algorithms
-	- [ ] Searching - [Day 1](#day-1)
-		- [ ] Binary Search
+	- [ ] Searching 
+		- [ ] Binary Search - [Day 1](#day-1)
 
 - - -
 # 100DaysOfCode Day-To-Day Progress
