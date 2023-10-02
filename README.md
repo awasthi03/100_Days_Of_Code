@@ -33,7 +33,7 @@ For the daily update on this challange follow me on [Twitter](https://twitter.co
 - [ ] Data Structures
 	- [ ] Arrays - [Day 1](#day-1)
 
-- [x] Algorithms
+- [ ] Algorithms
 	- [ ] Searching 
 		- [ ] Binary Search - [Day 1](#day-1)
 
