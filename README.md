@@ -25,9 +25,8 @@ For the daily update on this challange follow me on [Twitter](https://twitter.co
 - - - 
 ## Learn Software Development
 ### Learn Java Development
-- [ ] OOPS
-      - Abstraction - [Day 2](#day-2)
-      - Encapsulation - [Day 2](#day-2)
+- [ ] Java Core Concepts
+	- [ ] Object Oriented Programming in Java - [Day 2](#day-2)
 
 - - -
 ## Solve Problems On Data Structures and Algorithms (Leetcode)
