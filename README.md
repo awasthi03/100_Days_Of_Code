@@ -31,11 +31,11 @@ For the daily update on this challange follow me on [Twitter](https://twitter.co
 - - -
 ## Solve Problems On Data Structures and Algorithms (Leetcode)
 - [ ] Data Structures
-      - Arrays - [Day 1](#day-1)
+	- [ ] Arrays - [Day 1](#day-1)
 
-- [ ] Algorithms
-      - Searching
-      - Binary Search - [Day 1](#day-1)
+- [x] Algorithms
+	- [ ] Searching - [Day 1](#day-1)
+		- [ ] Binary Search
 
 - - -
 # 100DaysOfCode Day-To-Day Progress
