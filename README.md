@@ -47,7 +47,7 @@ For the daily update on this challange follow me on [Twitter](https://twitter.co
   - Learned About two important pillars of OOPS
     - Abstraction
     - Encapsulation 
-##Day 3
+## Day 3
   - Solved some leetcode questions
-    -[Two Sum](https://leetcode.com/problems/two-sum/)
-    -[Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+    - [Two Sum](https://leetcode.com/problems/two-sum/)
+    - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
