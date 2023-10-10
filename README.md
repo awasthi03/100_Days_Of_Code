@@ -55,3 +55,7 @@ For the daily update on this challange follow me on [Twitter](https://twitter.co
   - Solved Leetcode
     - [Rotate Array](https://leetcode.com/problems/rotate-array/)
     - [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
+## Day 5
+   - Solved Leetcode
+     - [Sort An Array](https://leetcode.com/problems/sort-an-array/)
+     - [Squares Of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
