@@ -51,3 +51,7 @@ For the daily update on this challange follow me on [Twitter](https://twitter.co
   - Solved some leetcode questions
     - [Two Sum](https://leetcode.com/problems/two-sum/)
     - [Palindrome Number](https://leetcode.com/problems/palindrome-number/)
+## Day 4
+  - Solved Leetcode
+    - [Rotate Array](https://leetcode.com/problems/rotate-array/)
+    - [Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/)
