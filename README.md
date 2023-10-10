@@ -59,3 +59,9 @@ For the daily update on this challange follow me on [Twitter](https://twitter.co
    - Solved Leetcode
      - [Sort An Array](https://leetcode.com/problems/sort-an-array/)
      - [Squares Of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/)
+## Day 6
+   - Completed the remaining work on my project and uploaded it on GitHub.
+   - Solved Leetcode
+     - [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
+     - [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
+     - [Customer Who Never Order](https://leetcode.com/problems/customers-who-never-order/)
