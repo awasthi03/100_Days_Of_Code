@@ -65,3 +65,9 @@ For the daily update on this challange follow me on [Twitter](https://twitter.co
      - [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
      - [Duplicate Emails](https://leetcode.com/problems/duplicate-emails/)
      - [Customer Who Never Order](https://leetcode.com/problems/customers-who-never-order/)
+## Day 7
+   - Preparationn for DXC Interview
+     - [Interview Questions](https://www.interviewbit.com/dxc-interview-questions/)
+## Day 8
+   - Preparation for DXC Interview (day-2)
+     - [Top 50 Interview Questions](https://mindmajix.com/dxc-interview-questions)
